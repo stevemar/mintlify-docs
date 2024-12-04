@@ -15,6 +15,16 @@
       "to": "#07C983"
     }
   },
+  "versions": [
+    {
+      "name": "English",
+      "locale": "en",
+    },
+    {
+      "name": "Español",
+      "locale": "es"
+    }
+  ],
   "topbarLinks": [
     {
       "name": "Support",
